@@ -2,4 +2,4 @@
 Analyzing NYC bike data with Azure Databricks
 
 Related blog post:   
-http://stephanefrechette.com/importing-adventureworks-data-into-neo4j/
+https://stephanefrechette.com/analyzing-nyc-citi-bike-data-with-azure-databricks/
